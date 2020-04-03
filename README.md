@@ -9,3 +9,4 @@
 ---
 ## ES6总结系列
 - [ES6总结系列之 let、const篇](https://github.com/YoursJoker/Blog/issues/1)
+- [ES6总结系列之 变量的解构赋值 篇](https://github.com/YoursJoker/Blog/issues/1)
