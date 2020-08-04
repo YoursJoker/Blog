@@ -8,7 +8,8 @@
 - [个人静态Blog](https://yoursjoker.github.io/)
 ---
 ## ES6总结系列
-- [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
-- [变量的解构赋值(es6)](https://github.com/YoursJoker/Blog/issues/2)
-- [模板字符串(es6)](https://github.com/YoursJoker/Blog/issues/3)
-- [函数的扩展(es6)](https://github.com/YoursJoker/Blog/issues/4)
+1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
+2. [变量的解构赋值(es6)](https://github.com/YoursJoker/Blog/issues/2)
+3. [模板字符串(es6)](https://github.com/YoursJoker/Blog/issues/3)
+4. [函数的扩展(es6)](https://github.com/YoursJoker/Blog/issues/4)
+5. [数组的扩展(es6)](https://github.com/YoursJoker/Blog/issues/5)
