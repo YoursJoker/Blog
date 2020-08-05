@@ -6,6 +6,10 @@
 - [掘金主页](https://juejin.im/user/5e80e762f265da47ef2f16c5)
 - [CSDN主页](https://me.csdn.net/m0_46358229)
 - [个人静态Blog](https://yoursjoker.github.io/)
+
+---
+## Javascript
+1. [事件处理模型--冒泡、捕获(javascript)](https://github.com/YoursJoker/Blog/issues/7)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
