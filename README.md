@@ -13,3 +13,4 @@
 3. [模板字符串(es6)](https://github.com/YoursJoker/Blog/issues/3)
 4. [函数的扩展(es6)](https://github.com/YoursJoker/Blog/issues/4)
 5. [数组的扩展(es6)](https://github.com/YoursJoker/Blog/issues/5)
+6. [Symbol(es6)](https://github.com/YoursJoker/Blog/issues/6)
