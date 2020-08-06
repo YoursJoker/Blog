@@ -10,6 +10,7 @@
 ---
 ## Javascript
 1. [事件处理模型--冒泡、捕获(javascript)](https://github.com/YoursJoker/Blog/issues/7)
+2. [防抖、节流(javascript)](https://github.com/YoursJoker/Blog/issues/9)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
