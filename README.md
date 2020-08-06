@@ -18,3 +18,4 @@
 4. [函数的扩展(es6)](https://github.com/YoursJoker/Blog/issues/4)
 5. [数组的扩展(es6)](https://github.com/YoursJoker/Blog/issues/5)
 6. [Symbol(es6)](https://github.com/YoursJoker/Blog/issues/6)
+7. [Set和Map数据结构(es6)](https://github.com/YoursJoker/Blog/issues/8)
