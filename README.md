@@ -11,6 +11,7 @@
 ## Javascript
 1. [事件处理模型--冒泡、捕获(javascript)](https://github.com/YoursJoker/Blog/issues/7)
 2. [防抖、节流(javascript)](https://github.com/YoursJoker/Blog/issues/9)
+3. [AJAX、JSONP(javascript)](https://github.com/YoursJoker/Blog/issues/10)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
@@ -20,3 +21,4 @@
 5. [数组的扩展(es6)](https://github.com/YoursJoker/Blog/issues/5)
 6. [Symbol(es6)](https://github.com/YoursJoker/Blog/issues/6)
 7. [Set和Map数据结构(es6)](https://github.com/YoursJoker/Blog/issues/8)
+8. [Promise 对象(es6)](https://github.com/YoursJoker/Blog/issues/11)
