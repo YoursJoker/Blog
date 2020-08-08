@@ -1,5 +1,6 @@
 # YoursJoker的博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
+-13
 
 ---
 ## 专栏
@@ -19,6 +20,7 @@
 3. [模板字符串(es6)](https://github.com/YoursJoker/Blog/issues/3)
 4. [函数的扩展(es6)](https://github.com/YoursJoker/Blog/issues/4)
 5. [数组的扩展(es6)](https://github.com/YoursJoker/Blog/issues/5)
-6. [Symbol(es6)](https://github.com/YoursJoker/Blog/issues/6)
-7. [Set和Map数据结构(es6)](https://github.com/YoursJoker/Blog/issues/8)
-8. [Promise 对象(es6)](https://github.com/YoursJoker/Blog/issues/11)
+6. [对象的扩展(es6)](https://github.com/YoursJoker/Blog/issues/12)
+7. [Symbol(es6)](https://github.com/YoursJoker/Blog/issues/6)
+8. [Set和Map数据结构(es6)](https://github.com/YoursJoker/Blog/issues/8)
+9. [Promise 对象(es6)](https://github.com/YoursJoker/Blog/issues/11)
