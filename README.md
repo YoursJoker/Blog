@@ -1,6 +1,6 @@
 # YoursJoker的博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
--14
+-15
 
 ---
 ## 专栏
@@ -13,6 +13,7 @@
 1. [事件处理模型--冒泡、捕获(javascript)](https://github.com/YoursJoker/Blog/issues/7)
 2. [防抖、节流(javascript)](https://github.com/YoursJoker/Blog/issues/9)
 3. [AJAX、JSONP(javascript)](https://github.com/YoursJoker/Blog/issues/10)
+4. [数组去重(javascript)](https://github.com/YoursJoker/Blog/issues/14)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
