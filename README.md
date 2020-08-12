@@ -1,6 +1,6 @@
 # YoursJoker的博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
--15
+-16
 
 ---
 ## 专栏
@@ -14,6 +14,7 @@
 2. [防抖、节流(javascript)](https://github.com/YoursJoker/Blog/issues/9)
 3. [AJAX、JSONP(javascript)](https://github.com/YoursJoker/Blog/issues/10)
 4. [数组去重(javascript)](https://github.com/YoursJoker/Blog/issues/14)
+5. [严格模式(javascript)](https://github.com/YoursJoker/Blog/issues/15)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
