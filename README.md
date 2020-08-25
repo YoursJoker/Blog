@@ -28,5 +28,5 @@
 9. [Set和Map数据结构(es6)](https://github.com/YoursJoker/Blog/issues/8)
 10. [Promise 对象(es6)](https://github.com/YoursJoker/Blog/issues/11)
 
-#疑问及勘误
+# 疑问及勘误
 如果有什么疑问或发现什么错误的地方，可以在对应的issue发表，欢迎勘误和提问^-^
