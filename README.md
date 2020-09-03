@@ -1,4 +1,4 @@
-# YoursJoker的博客
+# YoursJokerの博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
 -20
 
