@@ -1,6 +1,6 @@
 # YoursJokerの博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
--21
+-22
 
 ---
 ## 专栏
@@ -32,6 +32,7 @@
 10. [Promise 对象(es6)](https://github.com/YoursJoker/Blog/issues/11)
 11. [Class的基本语法上(es6)](https://github.com/YoursJoker/Blog/issues/19)
 12. [Class的基本语法下(es6)](https://github.com/YoursJoker/Blog/issues/20)
+13. [Class的继承(es6)](https://github.com/YoursJoker/Blog/issues/21)
 
 # 疑问及勘误
 如果有什么疑问或发现什么错误的地方，可以在对应的issue发表，欢迎勘误和提问^-^
