@@ -1,6 +1,6 @@
 # YoursJokerの博客
 大家好，我是YoursJoker，后知后觉编程的魅力，Go for it!
--23
+-24
 
 ---
 ## 专栏
@@ -19,6 +19,7 @@
 7. [bind的模拟实现(javascript)](https://github.com/YoursJoker/Blog/issues/17)
 8. [new的模拟实现(javascript)](https://github.com/YoursJoker/Blog/issues/18)
 9. [正则表达式-方法篇(javascript)](https://github.com/YoursJoker/Blog/issues/22)
+10. [正则表达式-规则篇(javascript)](https://github.com/YoursJoker/Blog/issues/23)
 ---
 ## ES6总结系列
 1. [let、const(es6)](https://github.com/YoursJoker/Blog/issues/1)
